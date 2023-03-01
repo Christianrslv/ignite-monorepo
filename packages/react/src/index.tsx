@@ -1,3 +1,3 @@
-export default function App() {
-  return <div>Hello World</div>
-}
+export * from './components/Box'
+export * from './components/Text'
+export * from './components/Heading'

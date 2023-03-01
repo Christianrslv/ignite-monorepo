@@ -26,6 +26,11 @@
     "vite": "^4.1.4"
   },
   "dependencies": {
+    "@christian-ui/eslint-config": "*",
+    "@christian-ui/ts-config": "*",
+    "@christian-ui/react": "*",
+    "@christian-ui/tokens": "*",
+    "polished": "^4.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
