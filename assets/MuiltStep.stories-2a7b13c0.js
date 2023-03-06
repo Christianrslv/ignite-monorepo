@@ -1,0 +1,2 @@
+import{j as t}from"./jsx-runtime-df101247.js";import{M as e,B as o}from"./index-9622c62e.js";import"./index-c1050027.js";import"./iframe-86c03a75.js";import"./index-1a82d757.js";const m={title:"Form/MuiltStep",component:e,args:{size:4,currentStep:1},decorators:[r=>t(o,{as:"label",css:{display:"flex",flexDirection:"column",gap:"$2"},children:r()})]},n={},c={args:{currentStep:4}},u=["Primary","Full"];export{c as Full,n as Primary,u as __namedExportsOrder,m as default};
+//# sourceMappingURL=MuiltStep.stories-2a7b13c0.js.map

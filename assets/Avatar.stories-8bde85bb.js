@@ -1,0 +1,2 @@
+import{A as t}from"./index-9622c62e.js";import"./index-c1050027.js";import"./iframe-86c03a75.js";import"./index-1a82d757.js";import"./jsx-runtime-df101247.js";const m={title:"Data Display/Avatar",component:t,args:{src:"https://github.com/Christianrslv.png",alt:"Christian"}},p={},c={args:{src:void 0}},n=["Primary","WithFallback"];export{p as Primary,c as WithFallback,n as __namedExportsOrder,m as default};
+//# sourceMappingURL=Avatar.stories-8bde85bb.js.map
