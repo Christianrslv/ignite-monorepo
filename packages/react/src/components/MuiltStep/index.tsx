@@ -20,3 +20,5 @@ export function MuiltStep({ size, currentStep = 1 }: MuiltStepProps) {
     </MultiStepContainer>
   )
 }
+
+MuiltStep.displayName = 'MuiltStep'
